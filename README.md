@@ -255,7 +255,7 @@ Kia-Motors-PowerBI-Dashboard
 
 **LinkedIn:** *(linkedin.com/in/kanishka-m-v)*
 
-**GitHub:** *[(Add your GitHub profile)](https://github.com/kanishkamv)*
+**GitHub:** *(https://github.com/kanishkamv)*
 
 **Email:** *(kanishkaanandcoolbee@gmail.com)*
 
