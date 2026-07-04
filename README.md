@@ -173,19 +173,19 @@ This page highlights revenue growth patterns and compares yearly business perfor
 
 ## Model Analysis
 
-![Model Analysis](Images/Model Analysis.png)
+![Model Analysis](Images/Model_Analysis.png)
 
 ---
 
 ## Regional Analysis
 
-![Regional Analysis](Images/Regional Analysis.png)
+![Regional Analysis](Images/Regional_Analysis.png)
 
 ---
 
 ## Growth Analysis
 
-![Growth Analysis](Images/Growth Analysis.png)
+![Growth Analysis](Images/Growth_Analysis.png)
 
 ---
 
@@ -228,9 +228,9 @@ Kia-Motors-PowerBI-Dashboard
 │
 ├── Images
 │   ├── Overview.png
-│   ├── Model Analysis.png
-│   ├── Regional Analysis.png
-│   └── Growth Analysis.png
+│   ├── Model_Analysis.png
+│   ├── Regional_Analysis.png
+│   └── Growth_Analysis.png
 │
 └── DEMO VIDEO.mp4
 ```
