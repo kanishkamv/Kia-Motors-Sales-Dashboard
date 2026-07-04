@@ -253,7 +253,7 @@ Kia-Motors-PowerBI-Dashboard
 
 **Kanishka M V**
 
-**LinkedIn:** *(linkedin.com/in/kanishka-m-v)*
+**LinkedIn:** *((https://www.linkedin.com/in/kanishka-m-v))*
 
 **GitHub:** *(https://github.com/kanishkamv)*
 
