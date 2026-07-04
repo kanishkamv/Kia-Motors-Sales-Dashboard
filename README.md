@@ -248,6 +248,12 @@ Kia-Motors-PowerBI-Dashboard
 - Generated actionable business insights from sales data
 
 ---
+## 📥 Download Power BI Dashboard
+
+The Power BI source file (.pbix) can be downloaded using the link below:
+
+🔗 **Power BI Dashboard (.pbix):**  
+https://drive.google.com/file/d/1dKW67VzVypCrVOl2o5fm2-9_cBL2jBjQ/view?usp=drive_link
 
 # 👨‍💻 Author
 
